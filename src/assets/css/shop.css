@@ -1,0 +1,18 @@
+nav{ height: 0.7rem; line-height: 0.7rem; }
+nav ul {margin: 0 auto;text-align: center;}
+nav ul li.on{ color: #900000; }
+nav ul li .icon-f11-copy{color: #999; font-size: 0.4rem;vertical-align: middle; }
+/*下拉菜单csss*/
+nav ul li span{ margin-left: 0.4rem;}
+nav ul li ul{ display: none;position: absolute; left: 0; background: #fff;}
+nav ul li{position: relative;color: #333;width: 3.6rem;float: left; }
+nav ul li ul li{ height: 0.8rem;line-height: 0.8rem; }
+nav ul li.active{ color: #900000; }
+nav ul li.active i{ color: #900000; }
+nav ul li.active ul li{ color: #900000; }
+
+
+.hotshop-item{  }
+.list{margin: 0.2rem 0 0.2rem  0.2rem;display: inline-block; width: 3.42rem;border: 1px solid #ccc; }
+
+
